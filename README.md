@@ -70,7 +70,7 @@
 <br />
 
 <div>
-  <h1>❤️ Hobbies / Intersts</h1>
+  <h1>❤️ Hobbies / Intrests</h1>
   <p>🖥️ Gaming</p>
   <p>👨‍💻 Coding</p>
   <p>💪 Working out</p>
