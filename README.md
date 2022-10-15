@@ -40,7 +40,7 @@
   <h3><a href="https://www.eloshapes.com/">EloShapes.com</a></h3>
   <p>EloShapes is a passion project website allowing the user to compare shapes and specifications of computer mice. It hosts a database of 250+ mice that continues to add and update both upcoming and existing products.</p>
 
-  <p>Launched 08/20/2022. Currently <b>11 000+</b> weekly users.</p>
+  <p>Launched 08/20/2022. Currently <b>10 000+</b> weekly users.</p>
 
   <p><b>Created using:</b> JavaScript (JQuery), HTML, CSS, Spring Boot, MongoDB</p>
 </div>
