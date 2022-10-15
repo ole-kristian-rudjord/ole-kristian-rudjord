@@ -37,7 +37,7 @@
 
 <div>
   <h1>👨‍💻 Projects</h1>
-  <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="34px" width="34px"></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
+  <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px" width="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
   <p>EloShapes is a passion project website allowing the user to compare shapes and specifications of computer mice. It hosts a database of 250+ mice that continues to add and update both upcoming and existing products.</p>
 
   <p>Launched 08/20/2022. Currently <b>10 000+</b> weekly users.</p>
