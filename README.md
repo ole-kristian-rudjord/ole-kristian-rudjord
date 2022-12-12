@@ -32,7 +32,8 @@
   <h1>💼 Work</h1>
   <p>Teaching Assistant at OsloMet:</p>
   <ul>
-    <li>Inclusive Web Design&nbsp&nbsp<sup><sub>Aug 2022 - Now</sub></sup></li>
+    <li>Web Programming&nbsp&nbsp<sup><sub>Starting Jan 2023 - ...</sub></sup></li>
+    <li>Inclusive Web Design&nbsp&nbsp<sup><sub>Aug 2022 - Nov 2022</sub></sup></li>
   </ul>
 </div>  
 
@@ -41,11 +42,16 @@
 <div>
   <h1>👨‍💻 Projects</h1>
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px" width="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
+  <p>Launched 08/20/2022. Currently <b>40 000+</b> monthly users.</p>
+  
   <p>EloShapes is a passion project website allowing the user to compare shapes and specifications of computer mice. It hosts a database of 250+ mice that continues to add and update both upcoming and existing products.</p>
 
-  <p>Launched 08/20/2022. Currently <b>10 000+</b> weekly users.</p>
-
   <p><b>Created using:</b> JavaScript (JQuery), HTML, CSS, Spring Boot, MongoDB</p>
+  
+  <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--JQuery"><sub><sub><sub><sub><sub><img src="https://img.icons8.com/emoji/48/000000/blue-square-emoji.png" height="30px" width="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - JQuery</a></h3>
+  <p>This is a project that I made in order to learn JavaScript and JQuery. Before starting, I only had experience with basic HTML and CSS.</p>
+
+  <p><b>Created using:</b> JavaScript (JQuery), HTML, CSS</p>
 </div>
 
 <br />
