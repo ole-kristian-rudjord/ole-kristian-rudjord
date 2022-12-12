@@ -36,7 +36,7 @@
   <p>EloShapes is a passion project website allowing the user to compare shapes and specifications of computer mice.
     <br />It hosts a database of 250+ mice that continues to add and update both upcoming and existing products.</p>
 
-  <p><b>Created using:</b> JavaScript (JQuery), HTML, CSS, Spring Boot, MongoDB</p>
+  <p><b>Created using:</b> JavaScript (JQuery), HTML, CSS, Java (Spring Boot), MongoDB</p>
   
   <br />
   
