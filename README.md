@@ -104,9 +104,9 @@
 <br />
 
 <div>
-  <h1>❤️ Hobbies / Intrests</h1>
+  <h1>❤️ Hobbies & Intrests</h1>
   <p>👨‍💻 Coding</p>
   <p>🖥️ Gaming</p>
   <p>💪 Working out</p>
-  <p>🏃 Jogging / Running</p>
+  <p>🏃 Jogging & Running</p>
 </div>
