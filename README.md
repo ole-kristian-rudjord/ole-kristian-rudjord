@@ -61,10 +61,16 @@
 
 <div>
   <h1>💼 Work</h1>
-  <p>Teaching Assistant at OsloMet:</p>
+  <p>Teaching Assistant at OsloMet | Web Programming&nbsp&nbsp<sup><sub>Starting Jan 2023 - ...</sub></sup></p>
   <ul>
-    <li>Web Programming&nbsp&nbsp<sup><sub>Starting Jan 2023 - ...</sub></sup></li>
-    <li>Inclusive Web Design&nbsp&nbsp<sup><sub>Aug 2022 - Nov 2022</sub></sup></li>
+    
+  </ul>
+  
+  <p>Teaching Assistant at OsloMet | Inclusive Web Design&nbsp&nbsp<sup><sub>Aug 2022 - Nov 2022</sub></sup></p>
+  <ul>
+    <li>Helped students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
+    <li>I attended practice class 3 times per week to answer questions, guide students toward solutions, and help them understand the concepts of HTML, CSS, and the basics of inclusive design.</li>
+    <li>Graded (passed/failed) over 100 obligatory assignments.</li>
   </ul>
 </div>  
 
