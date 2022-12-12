@@ -48,6 +48,8 @@
 
   <p><b>Created using:</b> JavaScript (JQuery), HTML, CSS, Spring Boot, MongoDB</p>
   
+  <br />
+  
   <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--JQuery"><sub><sub><sub><sub><sub><img src="https://img.icons8.com/emoji/48/000000/blue-square-emoji.png" height="30px" width="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - JQuery</a></h3>
   <p>This is a project that I made in order to learn JavaScript and JQuery. Before starting, I only had experience with basic HTML and CSS.</p>
 
