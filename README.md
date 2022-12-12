@@ -4,7 +4,7 @@
 
 <div>
   <h1>🎓 Education</h1>
-  <p>Studying <b>Applied Computer Science</b> at Oslo Metropolitan University (OsloMet)&nbsp&nbsp<sup><sub>Aug 2021 - Now</sub></sup></p>
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspBachelor in Applied Computer Science at Oslo Metropolitan University (OsloMet)&nbsp&nbsp<sup><sub>Aug 2021 - Now</sub></sup></h3>
   <p><b>Current Courses (for upcoming semester):</b></p>
   <ul>
     <li>Software Testing</li>
@@ -30,7 +30,7 @@
 
 <div>
   <h1>👨‍💻 Projects</h1>
-  <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px" width="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
+  <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
   <p>Launched 08/20/2022. Currently <b><ins>40 000</ins>+</b> monthly users.</p>
   
   <p>EloShapes is a passion project website allowing the user to compare shapes and specifications of computer mice.
@@ -40,7 +40,7 @@
   
   <br />
   
-  <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30px" width="35px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
+  <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
   <p>This is a project I am making to learn about the fundamentals of React.js and Styled-Components.
     <br />The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
   
@@ -50,7 +50,7 @@
   
   <br />
   
-  <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--JQuery"><sub><sub><sub><sub><sub><img src="https://img.icons8.com/emoji/48/000000/blue-square-emoji.png" height="30px" width="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - JQuery</a></h3>
+  <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--JQuery"><sub><sub><sub><sub><sub><img src="https://img.icons8.com/emoji/48/000000/blue-square-emoji.png" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - JQuery</a></h3>
   <p>This is a project that I made in order to learn JavaScript and JQuery.
     <br />Before starting, I only had experience with basic HTML and CSS.</p>
 
@@ -61,12 +61,14 @@
 
 <div>
   <h1>💼 Work</h1>
-  <p>Teaching Assistant at OsloMet | Web Programming&nbsp&nbsp<sup><sub>Starting Jan 2023 - ...</sub></sup></p>
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Web Programming&nbsp&nbsp&nbsp<sup><sub>Starting Jan 2023 - ...</sub></sup></h3>
   <ul>
     
   </ul>
   
-  <p>Teaching Assistant at OsloMet | Inclusive Web Design&nbsp&nbsp<sup><sub>Aug 2022 - Nov 2022</sub></sup></p>
+  <br />
+  
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Aug 2022 - Nov 2022</sub></sup></h3>
   <ul>
     <li>Helped students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
     <li>I attended practice class 3 times per week to answer questions, guide students toward solutions, and help them understand the concepts of HTML, CSS, and the basics of inclusive design.</li>
