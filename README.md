@@ -44,14 +44,16 @@
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px" width="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
   <p>Launched 08/20/2022. Currently <b>40 000+</b> monthly users.</p>
   
-  <p>EloShapes is a passion project website allowing the user to compare shapes and specifications of computer mice. It hosts a database of 250+ mice that continues to add and update both upcoming and existing products.</p>
+  <p>EloShapes is a passion project website allowing the user to compare shapes and specifications of computer mice.
+    <br />It hosts a database of 250+ mice that continues to add and update both upcoming and existing products.</p>
 
   <p><b>Created using:</b> JavaScript (JQuery), HTML, CSS, Spring Boot, MongoDB</p>
   
   <br />
   
   <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30px" width="35px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
-  <p>This is a project I am making to learn about the fundamentals in React.js and Styled-Components. The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
+  <p>This is a project I am making to learn about the fundamentals in React.js and Styled-Components.
+    <br />The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
   
   <p>The project is based on the same idea that was used when I first learned JavaScript and JQuery one year prior (see project below).</p>
 
@@ -60,7 +62,8 @@
   <br />
   
   <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--JQuery"><sub><sub><sub><sub><sub><img src="https://img.icons8.com/emoji/48/000000/blue-square-emoji.png" height="30px" width="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - JQuery</a></h3>
-  <p>This is a project that I made in order to learn JavaScript and JQuery. Before starting, I only had experience with basic HTML and CSS.</p>
+  <p>This is a project that I made in order to learn JavaScript and JQuery.
+    <br />Before starting, I only had experience with basic HTML and CSS.</p>
 
   <p><b>Created using:</b> JavaScript (JQuery), HTML, CSS</p>
 </div>
@@ -91,8 +94,8 @@
 
 <div>
   <h1>❤️ Hobbies / Intrests</h1>
-  <p>🖥️ Gaming</p>
   <p>👨‍💻 Coding</p>
+  <p>🖥️ Gaming</p>
   <p>💪 Working out</p>
   <p>🏃 Jogging / Running</p>
 </div>
