@@ -5,17 +5,20 @@
 <div>
   <h1>🎓 Education</h1>
   <p>Studying <b>Applied Computer Science</b> at Oslo Metropolitan University (OsloMet)&nbsp&nbsp<sup><sub>Aug 2021 - Now</sub></sup></p>
-  <p><b>Current Courses:</b></p>
+  <p><b>Current Courses (for upcoming semester):</b></p>
   <ul>
-    <li>Algorithms and Data Structures</li>
-    <li>Software Engineering</li>
-    <li>Human Computer Interaction</li>
+    <li>Software Testing</li>
+    <li>Operating Systems</li>
+    <li>Internet of Things</li>
   </ul>
   <p><b>Previous:</b></p>
   <ul>
     <li>Web Programming - <b>A</b></li>
     <li>Inclusive Web Design - <b>B</b></li>
     <li>Programming - <b>A</b></li>
+    <li>Algorithms and Data Structures - <b>B</b></li>
+    <li>Software Engineering - (waiting for result)</li>
+    <li>Human Computer Interaction - <b>B</b></li>
     <li>Databases - <b>A</b></li>
     <li>Visualization - <b>A</b></li>
     <li>Interaction Design and Prototyping - <b>A</b></li>
