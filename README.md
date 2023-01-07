@@ -13,14 +13,16 @@
   </ul>
   <p><b>Previous:</b></p>
   <ul>
-    <li>Web Programming - <b>A</b></li>
-    <li>Inclusive Web Design - <b>B</b></li>
-    <li>Programming - <b>A</b></li>
     <li>Algorithms and Data Structures - <b>B</b></li>
-    <li>Software Engineering - (waiting for result)</li>
     <li>Human Computer Interaction - <b>B</b></li>
-    <li>Databases - <b>A</b></li>
+    <li>Software Engineering - <b>A</b></li>
+    <br />
+    <li>Web Programming - <b>A</b></li>
     <li>Visualization - <b>A</b></li>
+    <li>Databases - <b>A</b></li>
+    <br />
+    <li>Programming - <b>A</b></li>
+    <li>Inclusive Web Design - <b>B</b></li>
     <li>Interaction Design and Prototyping - <b>A</b></li>
     <li>Technology and Society for Programmers</li>
   </ul>
@@ -41,7 +43,7 @@
   <br />
   
   <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
-  <p>This is a project I am making to learn about the fundamentals of React.js and Styled-Components.
+  <p>This is a project I created in order to learn the fundamentals of React.js and Styled-Components.
     <br />The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
   
   <p>The project is based on the same idea that was used when I first learned JavaScript and JQuery one year prior (see project below).</p>
