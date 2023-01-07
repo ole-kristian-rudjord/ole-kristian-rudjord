@@ -44,7 +44,7 @@
   
   <br />
   
-  <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
+  <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://ole-kristian-rudjord.github.io/Frosted-Glass-Generator--React/boxes-icon.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
   <p>This is a project I created in order to learn the fundamentals of React.js and Styled-Components.
     <br />The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
   
