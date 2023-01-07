@@ -5,12 +5,14 @@
 <div>
   <h1>🎓 Education</h1>
   <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspBachelor in Applied Computer Science at Oslo Metropolitan University (OsloMet)&nbsp&nbsp<sup><sub>Aug 2021 - Now</sub></sup></h3>
-  <p><b>Current Courses (for upcoming semester):</b></p>
+  <br />
+  <p><b>Current Courses:</b></p>
   <ul>
     <li>Software Testing</li>
     <li>Operating Systems</li>
     <li>Internet of Things</li>
   </ul>
+  <br />
   <p><b>Previous:</b></p>
   <ul>
     <li>Algorithms and Data Structures - <b>B</b></li>
