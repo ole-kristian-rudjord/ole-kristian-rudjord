@@ -120,5 +120,5 @@
   <p>👨‍💻 Coding</p>
   <p>🖥️ Gaming</p>
   <p>💪 Working out</p>
-  <p>🏃 Jogging and Running</p>
+  <p>🏃 Jogging / running</p>
 </div>
