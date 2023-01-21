@@ -1,8 +1,8 @@
 <h1>Hey, my name is Ole Kristian Rudjord 👋</h1>
 
-<br />
+<p><sub>📃 Click <a href="https://ole-kristian-rudjord.github.io/ole-kristian-rudjord-CV/">here</a> to take a look at my CV (work in progress) or keep looking for a more in-depth view on my education, projects, work-experience, skills, and hobbies</sub></p>
 
-<p>📃 Click <a href="https://ole-kristian-rudjord.github.io/ole-kristian-rudjord-CV/">here</a> to take a look at my CV (work in progress)</p>
+<br />
 
 <div>
   <h1>🎓 Education</h1>
