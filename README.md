@@ -2,9 +2,7 @@
 
 <br />
 
-<a href="https://ole-kristian-rudjord.github.io/ole-kristian-rudjord-CV/">📃 Click here to take a look at my CV</a> (work in progress)
-
-<br />
+<p>📃 Click <a href="https://ole-kristian-rudjord.github.io/ole-kristian-rudjord-CV/">here</a> to take a look at my CV (work in progress)</p>
 
 <div>
   <h1>🎓 Education</h1>
