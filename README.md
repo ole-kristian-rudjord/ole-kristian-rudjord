@@ -37,12 +37,13 @@
 <div>
   <h1>👨‍💻 Projects</h1>
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
-  <p>Launched 08/20/2022. Currently <b><ins>40 000</ins>+</b> monthly users.</p>
+  <p>EloShapes was launched 08/20/2022, reaching more than <b><ins>6500 users within 24 hours<ins></b>, now having an average of <b><ins>over 45 000 monthly users<ins></b>.</p>
   
-  <p>EloShapes is a passion project website allowing the user to compare shapes and specifications of computer mice.
-    <br />It hosts a database of 250+ mice that continues to add and update both upcoming and existing products.</p>
+  <p>This is a passion project website that lets users compare the shapes and technical specifications of mice to help them find what might be their next purchase.</p>
 
-  <p><b>Created using:</b> JavaScript (JQuery), HTML, CSS, Java (Spring Boot), MongoDB</p>
+  <p>The website hosts a database with over 280 mice which continues to evolve through me and the users adding and updating existing and upcoming products.</p>
+    
+  <p>EloShapes is created using JavaScript, HTML, CSS, Spring Boot, MongoDB, and hosted using Heroku and Cloudflare.</p>
   
   <br />
   
@@ -69,7 +70,8 @@
   <h1>💼 Work</h1>
   <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Web Programming&nbsp&nbsp&nbsp<sup><sub>Jan 2023 - Now</sub></sup></h3>
   <ul>
-    
+    <li>I help students acquire basic knowledge of web servers and how to develop full-stack web applications using JavaScript, Spring Boot, and databases.</li>
+    <li>I take part in 3 practice classes per week to help students with understanding their assignments and answer any questions they might have about the course, technologies they are using, or other related subjects.</li>
   </ul>
   
   <br />
@@ -123,7 +125,7 @@
   <h4>Other:</h4>
   <p>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="40"/>
+    &nbsp&nbsp<img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="Bash" height="40"/>
     &nbsp&nbsp<img src="https://www.soapui.org/soapui/media/images/favicon.png" alt="SoapUI" height="40"/>
   </p>
 </div>
