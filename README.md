@@ -37,7 +37,7 @@
 <div>
   <h1>👨‍💻 Projects</h1>
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
-  <p>EloShapes was launched 08/20/2022, reaching more than <b><ins>6500 users within 24 hours<ins></b>, now having an average of <b><ins>over 45 000 monthly users<ins></b>.</p>
+  <p>EloShapes was launched 08/20/2022, reaching more than <b><ins>6500 users within 24 hours<ins></b>, now having an average of <b><ins>over 50 000 monthly users<ins></b>.</p>
   
   <p>This is a passion project website that lets users compare the shapes and technical specifications of mice to help them find what might be their next purchase.</p>
 
