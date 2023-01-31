@@ -1,6 +1,7 @@
 <h1>Hey, my name is Ole Kristian Rudjord 👋</h1>
 
-<p><sub>📃 Click <a href="https://ole-kristian-rudjord.github.io/ole-kristian-rudjord-CV/">here</a> to take a look at my CV (work in progress) or keep looking for a more in-depth view on my education, projects, work-experience, skills, and hobbies</sub></p>
+<p><sub>📃 Click <a href="https://ole-kristian-rudjord.github.io/ole-kristian-rudjord-CV/">here</a> to take a look at my CV (and download it if needed) or keep scrolling for 
+  <br /> a more in-depth view on my education, projects, work-experience, skills, and hobbies :)</sub></p>
 
 <br />
 
@@ -43,11 +44,20 @@
 
   <p>The website hosts a database with over 280 mice which continues to evolve through me and the users adding and updating existing and upcoming products.</p>
     
-  <p>EloShapes is created using JavaScript, HTML, CSS, Spring Boot, MongoDB, and hosted using Heroku and Cloudflare.</p>
+  <p>EloShapes is created using JavaScript, HTML, CSS, Spring Boot, and MongoDB, and is hosted using Heroku and Cloudflare.</p>
+  
+  <br />
+    
+  <h3><a href="https://github.com/ole-kristian-rudjord/TypeScript-Calculator"><sub><sub><sub><sub><sub><img src="https://raw.githubusercontent.com/ole-kristian-rudjord/TypeScript-Calculator/51f219e50ac06c50762023ba6874c488f2b85af3/favicon.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspTypeScript Calculator</a></h3>
+  <p>A small project where I can learn TypeScript through implementing functionalities used in a simple calculator.<br />I am also using this as a way to learn more about Sass.</p>
+    
+  <p><i>[Work in progress]</i></p>
+    
+  <p><b>Created using:</b> TypeScript, Sass</p>
   
   <br />
   
-  <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://ole-kristian-rudjord.github.io/Frosted-Glass-Generator--React/boxes-icon.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
+  <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://ole-kristian-rudjord.github.io/Frosted-Glass-Generator--React/boxes-icon.svg" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
   <p>This is a project I created in order to learn the fundamentals of React.js and Styled-Components.
     <br />The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
   
@@ -91,6 +101,7 @@
   <h4>Front-end:</h4>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="40"/>
+    &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
     &nbsp&nbsp<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="JQuery" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/>
