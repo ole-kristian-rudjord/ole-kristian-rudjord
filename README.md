@@ -1,7 +1,7 @@
 <h1>Hey, my name is Ole Kristian Rudjord 👋</h1>
 
-<p><sub>📃 Click <a href="https://ole-kristian-rudjord.github.io/ole-kristian-rudjord-CV/">here</a> to take a look at my CV (and download it if needed) or keep scrolling for 
-  <br /> a more in-depth view on my education, projects, work-experience, skills, and hobbies :)</sub></p>
+<p>📃 Click <a href="https://ole-kristian-rudjord.github.io/ole-kristian-rudjord-CV/">here</a> to take a look at my CV (and download it if needed) or keep scrolling for 
+  <br /> a more in-depth view on my education, projects, work-experience, skills, and hobbies :)</p>
 
 <br />
 
@@ -48,10 +48,15 @@
   
   <br />
     
+  <h3><a href="https://github.com/ole-kristian-rudjord/portfolio-website"><sub><sub><sub><sub><sub><img src="https://cdn-icons-png.flaticon.com/512/6522/6522516.png" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspPortfolio Website</a></h3>
+  <p><i>[Work in progress]</i></p>
+    
+  <p><b>Created using:</b> React.js, TypeScript, Sass, Vite</p>
+    
+  <br />
+    
   <h3><a href="https://github.com/ole-kristian-rudjord/TypeScript-Calculator"><sub><sub><sub><sub><sub><img src="https://raw.githubusercontent.com/ole-kristian-rudjord/TypeScript-Calculator/51f219e50ac06c50762023ba6874c488f2b85af3/favicon.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspTypeScript Calculator</a></h3>
   <p>A small project where I can learn TypeScript through implementing functionalities used in a simple calculator.<br />I am also using this as a way to learn more about Sass.</p>
-    
-  <p><i>[Work in progress]</i></p>
     
   <p><b>Created using:</b> TypeScript, Sass</p>
   
@@ -108,6 +113,7 @@
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40"/>
     &nbsp&nbsp<img src="https://styled-components.com/atom.png" alt="styled-components" height="40"/>
+    &nbsp&nbsp<img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" height="40"/>
   </p>
   <h4>Back-end:</h4>
   <p>
