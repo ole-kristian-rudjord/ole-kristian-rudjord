@@ -49,7 +49,7 @@
   <br />
     
   <h3><a href="https://github.com/ole-kristian-rudjord/TypeScript-Calculator"><sub><sub><sub><sub><sub><img src="https://raw.githubusercontent.com/ole-kristian-rudjord/TypeScript-Calculator/51f219e50ac06c50762023ba6874c488f2b85af3/favicon.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspTypeScript Calculator</a></h3>
-  <p>A small project where I learned TypeScript through implementing functionalities used in a simple calculator. Also used to learn more about Sass.</p>
+  <p>A small project where I learned TypeScript by implementing functionalities used in a simple calculator. Also used to learn more about Sass.</p>
     
   <p><b>Created using:</b> TypeScript, Sass</p>
   
