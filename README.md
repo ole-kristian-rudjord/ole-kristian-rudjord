@@ -38,55 +38,53 @@
 <div>
   <h1>👨‍💻 Projects</h1>
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
-  <p>EloShapes was launched 08/20/2022, reaching more than <b><ins>6500 users within 24 hours<ins></b>, now having an average of <b><ins>over 50 000 monthly users<ins></b>.</p>
+  <p>EloShapes was launched 08/20/2022, reaching more than <b><ins>6500 users within 24 hours<ins></b>, now having an average of <b><ins>over 70 000 monthly visits<ins></b>.</p>
   
   <p>This is a passion project website that lets users compare the shapes and technical specifications of mice to help them find what might be their next purchase.</p>
 
   <p>The website hosts a database with over 280 mice which continues to evolve through me and the users adding and updating existing and upcoming products.</p>
     
-  <p>EloShapes is created using JavaScript, HTML, CSS, Spring Boot, and MongoDB, and is hosted using Heroku and Cloudflare.</p>
-  
-  <br />
-    
-  <h3><a href="https://github.com/ole-kristian-rudjord/portfolio-website"><sub><sub><sub><sub><sub><img src="https://cdn-icons-png.flaticon.com/512/6522/6522516.png" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspPortfolio Website</a></h3>
-  <p><i>[Work in progress]</i></p>
-    
-  <p><b>Created using:</b> React.js, TypeScript, Sass, Vite</p>
+  <p>EloShapes is created using JavaScript, HTML, CSS, Spring Boot, and MongoDB, and is hosted using Heroku and Cloudflare. Google Analytics is used for measuring traffic.</p>
     
   <br />
     
   <h3><a href="https://github.com/ole-kristian-rudjord/TypeScript-Calculator"><sub><sub><sub><sub><sub><img src="https://raw.githubusercontent.com/ole-kristian-rudjord/TypeScript-Calculator/51f219e50ac06c50762023ba6874c488f2b85af3/favicon.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspTypeScript Calculator</a></h3>
-  <p>A small project where I can learn TypeScript through implementing functionalities used in a simple calculator.<br />I am also using this as a way to learn more about Sass.</p>
+  <p>A small project where I learned TypeScript through implementing functionalities used in a simple calculator. Also used to learn more about Sass.</p>
     
   <p><b>Created using:</b> TypeScript, Sass</p>
   
   <br />
   
   <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://ole-kristian-rudjord.github.io/Frosted-Glass-Generator--React/boxes-icon.svg" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
-  <p>This is a project I created in order to learn the fundamentals of React.js and Styled-Components.
-    <br />The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
+  <p>This is a project I created in order to learn the fundamentals of React.js and Styled-Components. The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
   
-  <p>The project is based on the same idea that was used when I first learned JavaScript and JQuery one year prior (see project below).</p>
+  <p>The project is based on the same idea that was used when I first learned JavaScript and jQuery one year prior (see project below).</p>
 
   <p><b>Created using:</b> React.js, Styled-Components</p>
   
   <br />
   
   <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--JQuery"><sub><sub><sub><sub><sub><img src="https://img.icons8.com/emoji/48/000000/blue-square-emoji.png" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - JQuery</a></h3>
-  <p>This is a project that I made in order to learn JavaScript and JQuery.
-    <br />Before starting, I only had experience with basic HTML and CSS.</p>
+  <p>This is a project that I made in order to learn JavaScript and jQuery. Before starting, I only had experience with basic HTML and CSS.</p>
 
-  <p><b>Created using:</b> JavaScript (JQuery), HTML, CSS</p>
+  <p><b>Created using:</b> JavaScript (jQuery), HTML, CSS</p>
 </div>
 
 <br />
 
 <div>
   <h1>💼 Work</h1>
+  <h3><sub><sub><sub><sub><sub><img src="https://media.licdn.com/dms/image/C560BAQGU3zLKchPpvA/company-logo_100_100/0/1661322795746?e=1686182400&v=beta&t=hZzM5_-BVZ6gOzciUVmig8hIdTEo0TpyCunTxFy-1sI" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspNorconsult | Summer-Internship&nbsp&nbsp&nbsp<sup><sub>Starting Jun 2023 - Aug 2023</sub></sup></h3>
+  
+  <a href="https://www.finn.no/job/fulltime/ad.html?finnkode=275790346">www.finn.no/job/fulltime/ad.html?finnkode=275790346</a>
+  
+  <br />
+  
   <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Web Programming&nbsp&nbsp&nbsp<sup><sub>Jan 2023 - Now</sub></sup></h3>
   <ul>
-    <li>I help students acquire basic knowledge of web servers and how to develop full-stack web applications using JavaScript, Spring Boot, and databases.</li>
+    <li>I help students acquire knowledge of web servers and how to develop full-stack web applications using JavaScript, Spring Boot, and databases.</li>
     <li>I take part in 3 practice classes per week to help students with understanding their assignments and answer any questions they might have about the course, technologies they are using, or other related subjects.</li>
+    <li>Grading (pass/fail) obligatory assignments</li>
   </ul>
   
   <br />
@@ -95,7 +93,7 @@
   <ul>
     <li>Helped students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
     <li>I attended practice class 3 times per week to answer questions, guide students toward solutions, and help them understand the concepts of HTML, CSS, and the basics of inclusive design.</li>
-    <li>Graded (passed/failed) over 100 obligatory assignments.</li>
+    <li>Graded (pass/fail) over 100 obligatory assignments.</li>
   </ul>
 </div>  
 
@@ -106,13 +104,14 @@
   <h4>Front-end:</h4>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="40"/>
+    &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="38"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
-    &nbsp&nbsp<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="JQuery" height="40"/>
-    &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/>
-    &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>
-    &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40"/>
-    &nbsp&nbsp<img src="https://styled-components.com/atom.png" alt="styled-components" height="40"/>
+    &nbsp&nbsp<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" height="40"/>
+    &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40"/>
+    &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40"/>
+    &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40"/>
+    &nbsp&nbsp<img src="https://styled-components.com/atom.png" alt="Styled-Components" height="40"/>
     &nbsp&nbsp<img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" height="40"/>
   </p>
   <h4>Back-end:</h4>
@@ -144,6 +143,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     &nbsp&nbsp<img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="Bash" height="40"/>
     &nbsp&nbsp<img src="https://www.soapui.org/soapui/media/images/favicon.png" alt="SoapUI" height="40"/>
+    &nbsp&nbsp<img src="https://lh3.googleusercontent.com/WRvVHANHbgKMNmV-fZ-3ji9lOhO5QGo3OGX41kC4dm873mSJZkOfKuRuYgufI4BfABdBeftmLncKueJPIA71WBHzIw=w128-h128-e365-rj-sc0x00ffffff" alt="Katalon Recorder" height="38"/>
   </p>
 </div>
 
