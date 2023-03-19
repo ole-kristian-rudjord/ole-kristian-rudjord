@@ -1,8 +1,5 @@
 <h1>Hey, my name is Ole Kristian Rudjord 👋</h1>
 
-<p>📃 Click <a href="https://ole-kristian-rudjord.github.io/ole-kristian-rudjord-CV/">here</a> to take a look at my CV (and download it if needed) or keep scrolling for 
-  <br /> a more in-depth view on my education, projects, work-experience, skills, and hobbies :)</p>
-
 <br />
 
 <div>
@@ -38,34 +35,53 @@
 <div>
   <h1>👨‍💻 Projects</h1>
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
-  <p>EloShapes was launched on 08/20/2022, reaching more than <b><ins>6500 users within 24 hours<ins></b>, now having an average of <b><ins>over 70 000 monthly visits<ins></b>.</p>
+  <p>EloShapes was launched on 08/20/2022, reaching more than <ins><b>6500</b></ins> users within 24 hours, now having an average of over <ins><b>80 000</b></ins> monthly visits.</p>
   
-  <p>This is a passion project website that lets users compare the shapes and technical specifications of mice to help them find what might be their next purchase.</p>
+  <p>This is a passion project that I started working on at the beginning of 2022 with only a basic understanding of web development. This was first meant as a small side-project that I would use to practice JavaScript but later grew into a website that I knew could help others.</p>
 
-  <p>The website hosts a database with over 280 mice which continues to evolve through me and the users adding and updating existing and upcoming products.</p>
+  <p>The website lets users compare the shapes and technical specifications of gaming mice. This helps them get a better understanding of the products they might buy.</p>
+  
+  <p>EloShapes hosts a database with over 300 mice. Its selection continues to grow as both I and users add existing and upcoming mice to the database.</p>
     
-  <p>EloShapes is created using JavaScript, HTML, CSS, Spring Boot, and MongoDB, and is hosted using Heroku and Cloudflare. Google Analytics is used for measuring traffic.</p>
+  <p>EloShapes is created using JavaScript, HTML, CSS, Spring Boot, and MongoDB. It is hosted using Heroku and Cloudflare. Google Analytics is used for measuring traffic.</p>
+    
+  <br />
+  
+  <h3><a href="https://ole-kristian-rudjord.github.io/portfolio-website/"><sub><sub><sub><sub><sub><img src="https://ole-kristian-rudjord.github.io/portfolio-website/assets/Portfolio_Website-logo-665a45da.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspPortfolio Website</a></h3>
+  <p>This is my very own portfolio website that, compared to a short resume, gives a deeper look into who I am and what I do!</p>
+  
+  <p>It contains information about me and my projects, education, work experience, skills, hobbies, and contact information.</p>
+
+  <p>To learn more about Vue.js, I decided it was a good idea to build my portfolio using this technology to better understand its features and how to use it.</p>
+  
+  <p>EloShapes hosts a database with over 300 mice. Its selection continues to grow as both I and users add existing and upcoming mice to the database.</p>
+    
+  <p>The website is still very much under development, so a lot of content is still missing. Bugs and responsiveness on certain screen sizes are still not fixed, it is therefore recommended to view it on a computer for the time being.</p>
+  
+  <p><b>Created using:</b> Vue.js, Vite, Sass</p>
     
   <br />
     
   <h3><a href="https://github.com/ole-kristian-rudjord/TypeScript-Calculator"><sub><sub><sub><sub><sub><img src="https://raw.githubusercontent.com/ole-kristian-rudjord/TypeScript-Calculator/51f219e50ac06c50762023ba6874c488f2b85af3/favicon.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspTypeScript Calculator</a></h3>
-  <p>A small project where I learned TypeScript by implementing functionalities used in a simple calculator. Also used to learn more about Sass.</p>
+  <p>This is a small project where I learned TypeScript by implementing functionalities used in a simple calculator. It was also used to learn more about Sass and experiment with animations and sound.</p>
     
-  <p><b>Created using:</b> TypeScript, Sass</p>
+  <p><b>Created using:</b> TypeScript & Sass</p>
   
   <br />
   
   <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://ole-kristian-rudjord.github.io/Frosted-Glass-Generator--React/boxes-icon.svg" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
   <p>This is a project I created in order to learn the fundamentals of React.js and Styled-Components. The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
   
-  <p>It is based on the same idea that was used when I first learned JavaScript and jQuery earlier that year (see project below)</p>
+  <p>It is based on the same idea that was used when I first learned JavaScript and jQuery earlier that year (see project below).</p>
 
-  <p><b>Created using:</b> React.js, Styled-Components</p>
+  <p><b>Created using:</b> React.js & Styled-Components</p>
   
   <br />
   
   <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--JQuery"><sub><sub><sub><sub><sub><img src="https://img.icons8.com/emoji/48/000000/blue-square-emoji.png" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - jQuery</a></h3>
-  <p>This is a project that I made in order to learn JavaScript and jQuery. Before starting, I only had experience with basic HTML and CSS.</p>
+  <p>Frosted Glass Generator is a project that I made in order to learn JavaScript and jQuery. Before starting, I only had experience with basic HTML and CSS.</p>
+
+  <p>The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
 
   <p><b>Created using:</b> JavaScript (jQuery), HTML, CSS</p>
 </div>
