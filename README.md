@@ -4,7 +4,7 @@
 
 <div>
   <h1>🎓 Education</h1>
-  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspBachelor in Applied Computer Science at Oslo Metropolitan University (OsloMet)&nbsp&nbsp<sup><sub>Aug 2021 - Now</sub></sup></h3>
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspBachelor's degree in Applied Computer Science at OsloMet&nbsp&nbsp<sup><sub>Aug 2021 - Now</sub></sup></h3>
   <br />
   <p><b>Current Courses:</b></p>
   <ul>
