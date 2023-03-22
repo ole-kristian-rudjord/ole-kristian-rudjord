@@ -47,7 +47,7 @@
     
   <br />
   
-  <h3><a href="https://ole-kristian-rudjord.github.io/portfolio-website/assets/Portfolio_Website-logo-6456e62d.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspPortfolio Website</a></h3>
+  <h3><a href="https://ole-kristian-rudjord.github.io/portfolio-website/"><sub><sub><sub><sub><sub><img src="https://ole-kristian-rudjord.github.io/portfolio-website/assets/Portfolio_Website-logo-6456e62d.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspPortfolio Website</a></h3>
   <p>This is my very own portfolio website that, compared to a short resume, gives a deeper look into who I am and what I do!</p>
   
   <p>It contains information about me and my projects, education, work experience, skills, hobbies, and contact information.</p>
