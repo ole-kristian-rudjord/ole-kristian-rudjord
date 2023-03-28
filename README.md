@@ -35,7 +35,7 @@
 <div>
   <h1>👨‍💻 Projects</h1>
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
-  <p>EloShapes was launched on 08/20/2022, reaching more than <ins><b>6500</b></ins> users within 24 hours, now having an average of over <ins><b>80 000</b></ins> monthly visits.</p>
+  <p>EloShapes was launched on 08/20/2022, reaching more than <ins><b>6500</b></ins> users within 24 hours, now having an average of over <ins><b>85 000</b></ins> monthly visits.</p>
   
   <p>This is a passion project that I started working on at the beginning of 2022 with only a basic understanding of web development. This was first meant as a small side-project that I would use to practice JavaScript but later grew into a website that I knew could help others.</p>
 
