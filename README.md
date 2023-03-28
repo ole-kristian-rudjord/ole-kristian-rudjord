@@ -53,8 +53,6 @@
   <p>It contains information about me and my projects, education, work experience, skills, hobbies, and contact information.</p>
 
   <p>To learn more about Vue.js, I decided it was a good idea to build my portfolio using this technology to better understand its features and how to use it.</p>
-  
-  <p>EloShapes hosts a database with over 300 mice. Its selection continues to grow as both I and users add existing and upcoming mice to the database.</p>
     
   <p>The website is still very much under development, so a lot of content is still missing. Bugs and responsiveness on certain screen sizes are still not fixed, it is therefore recommended to view it on a computer for the time being.</p>
   
