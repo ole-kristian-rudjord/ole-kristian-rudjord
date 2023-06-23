@@ -58,14 +58,14 @@
     
   <p>The website is still very much under development, so a lot of content is still missing. Bugs and responsiveness on certain screen sizes are still not fixed, it is therefore recommended to view it on a computer for the time being.</p>
   
-  <p><b>Created using:</b> Vue.js, Vite, Sass</p>
+  <p><b>Created using:</b> Vue.js · Vite · Sass</p>
     
   <br />
     
   <h3><a href="https://github.com/ole-kristian-rudjord/TypeScript-Calculator"><sub><sub><sub><sub><sub><img src="https://raw.githubusercontent.com/ole-kristian-rudjord/TypeScript-Calculator/51f219e50ac06c50762023ba6874c488f2b85af3/favicon.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspTypeScript Calculator</a></h3>
   <p>This is a small project where I learned TypeScript by implementing functionalities used in a simple calculator. It was also used to learn more about Sass and experiment with animations and sound.</p>
     
-  <p><b>Created using:</b> TypeScript & Sass</p>
+  <p><b>Created using:</b> TypeScript · Sass</p>
   
   <br />
   
@@ -74,7 +74,7 @@
   
   <p>It is based on the same idea that was used when I first learned JavaScript and jQuery earlier that year (see project below).</p>
 
-  <p><b>Created using:</b> React.js & Styled-Components</p>
+  <p><b>Created using:</b> React.js · Styled-Components</p>
   
   <br />
   
@@ -83,7 +83,7 @@
 
   <p>The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
 
-  <p><b>Created using:</b> JavaScript (jQuery), HTML, CSS</p>
+  <p><b>Created using:</b> JavaScript (jQuery) · HTML · CSS</p>
 </div>
 
 <br />
