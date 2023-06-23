@@ -28,7 +28,7 @@
     <li>Programming - <b>A</b></li>
     <li>Inclusive Web Design - <b>B</b></li>
     <li>Interaction Design and Prototyping - <b>A</b></li>
-    <li>Technology and Society for Programmers</li>
+    <li>Technology and Society for Programmers (no grading)</li>
   </ul>
 </div>
 
