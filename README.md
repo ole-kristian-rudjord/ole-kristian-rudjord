@@ -1,4 +1,4 @@
-<h1>Hey, my name is Ole Kristian Rudjord 👋</h1>
+<h1>Hi, my name is Ole Kristian Rudjord 👋</h1>
 
 <br />
 
