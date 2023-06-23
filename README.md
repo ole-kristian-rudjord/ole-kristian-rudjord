@@ -14,8 +14,8 @@
   <p><b>Previous:</b></p>
   <ul>
     <li>Software Testing - A</li>
-    <li>Operating Systems - ...</li>
-    <li>Internet of Things - ...</li>
+    <li>Operating Systems - A</li>
+    <li>Internet of Things - A</li>
     <br />
     <li>Algorithms and Data Structures - <b>B</b></li>
     <li>Human Computer Interaction - <b>B</b></li>
@@ -37,7 +37,7 @@
 <div>
   <h1>👨‍💻 Projects</h1>
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
-  <p>EloShapes was launched on 08/20/2022, reaching more than <ins><b>6500</b></ins> users within 24 hours, now having an average of over <ins><b>95 000</b></ins> monthly visits.</p>
+  <p>EloShapes was launched on 08/20/2022, reaching more than <ins><b>6500</b></ins> users within 24 hours, now having an average of over <ins><b>100 000</b></ins> monthly visits.</p>
   
   <p>This is a passion project that I started working on at the beginning of 2022 with only a basic understanding of web development. This was first meant as a small side-project that I would use to practice JavaScript but later grew into a website that I knew could help others.</p>
 
@@ -90,7 +90,8 @@
 
 <div>
   <h1>💼 Work</h1>
-  <h3><sub><sub><sub><sub><sub><img src="https://media.licdn.com/dms/image/C560BAQGU3zLKchPpvA/company-logo_100_100/0/1661322795746?e=1686182400&v=beta&t=hZzM5_-BVZ6gOzciUVmig8hIdTEo0TpyCunTxFy-1sI" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspNorconsult Digital | Summer student&nbsp&nbsp&nbsp<sup><sub>Starting Jun 2023 - Aug 2023</sub></sup></h3>
+  <h3><sub><sub><sub><sub><sub><img src="https://scontent.fbgo1-1.fna.fbcdn.net/v/t39.30808-6/307183121_632624135042756_741222055734435810_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=dtRU1PS0ofUAX-hKjGV&_nc_ht=scontent.fbgo1-1.fna&oh=00_AfBSiaNAf4Q9p92kSal0VTiFxLhJ_pMvtjcZ4_KOGdDkwQ&oe=649A4F9D" height="32px"></sub></sub></sub></sub></sub>&nbsp&nbspSoftware Engineer (summer job) at Norconsult Digital&nbsp&nbsp&nbsp<sup><sub>Starting Jun 2023 - Aug 2023</sub></sup></h3>
+  <p><b>Skills:</b> Vue.js · Vuetify · TypeScript · Vite · Sass · Progressive Web Apps · C# · .NET</p>
   
   <br />
   
@@ -100,6 +101,7 @@
     <li>I take part in 3 practice classes per week to help students with understanding their assignments and answer any questions they might have about the course, technologies they are using, or other related subjects.</li>
     <li>Grading (pass/fail) obligatory assignments</li>
   </ul>
+  <p><b>Skills:</b> JavaScript · Java · Spring Boot · SQL · Git · GitHub</p>
   
   <br />
   
@@ -109,6 +111,7 @@
     <li>I attended practice class 3 times per week to answer questions, guide students toward solutions, and help them understand the concepts of HTML, CSS, and the basics of inclusive design.</li>
     <li>Graded (pass/fail) over 100 obligatory assignments.</li>
   </ul>
+  <p><b>Skills:</b> Inclusive Web Design · HTML · CSS · Git · GitHub</p>
 </div>  
 
 <br />
@@ -119,9 +122,11 @@
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="40"/>
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="38"/>
+    &nbsp&nbsp<img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-light.svg" alt="Vuetify" height="41"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
     &nbsp&nbsp<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" height="40"/>
+    &nbsp&nbsp<img src="https://avatars.githubusercontent.com/u/3863375?s=280&v=4" alt="Knockout js" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40"/>
@@ -130,7 +135,9 @@
   </p>
   <h4>Back-end:</h4>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://cdn.cdnlogo.com/logos/c/68/c-sharp-800x800.png" alt="C#" width="40" height="40"/>
+    &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt=".NET" width="40" height="40"/>
+    &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     &nbsp&nbsp<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -145,6 +152,7 @@
   <h4>IDEs:</h4>
   <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40"/>
+    &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" height="40"/>
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" height="40"/>
   </p>
   <h4>Image-editing:</h4>
@@ -156,6 +164,7 @@
   <p>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     &nbsp&nbsp<img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="Bash" height="40"/>
+    &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" height="40"/>
     &nbsp&nbsp<img src="https://www.soapui.org/soapui/media/images/favicon.png" alt="SoapUI" height="40"/>
     &nbsp&nbsp<img src="https://lh3.googleusercontent.com/WRvVHANHbgKMNmV-fZ-3ji9lOhO5QGo3OGX41kC4dm873mSJZkOfKuRuYgufI4BfABdBeftmLncKueJPIA71WBHzIw=w128-h128-e365-rj-sc0x00ffffff" alt="Katalon Recorder" height="38"/>
   </p>
@@ -167,6 +176,6 @@
   <h1>❤️ Hobbies and Intrests</h1>
   <p>👨‍💻 Coding</p>
   <p>🖥️ Gaming</p>
+  <p>🏃 Running</p>
   <p>💪 Working out</p>
-  <p>🏃 Jogging and running</p>
 </div>
