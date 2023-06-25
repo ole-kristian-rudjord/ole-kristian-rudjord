@@ -90,7 +90,7 @@
 
 <div>
   <h1>💼 Work</h1>
-  <h3><sub><sub><sub><sub><sub><img src="https://scontent.fbgo1-1.fna.fbcdn.net/v/t39.30808-6/307183121_632624135042756_741222055734435810_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=dtRU1PS0ofUAX-hKjGV&_nc_ht=scontent.fbgo1-1.fna&oh=00_AfBSiaNAf4Q9p92kSal0VTiFxLhJ_pMvtjcZ4_KOGdDkwQ&oe=649A4F9D" height="32px"></sub></sub></sub></sub></sub>&nbsp&nbspSoftware Engineer (summer job) at Norconsult Digital&nbsp&nbsp&nbsp<sup><sub>Starting Jun 2023 - Aug 2023</sub></sup></h3>
+  <h3><sub><sub><sub><sub><sub><img src="https://scontent.fbgo1-1.fna.fbcdn.net/v/t39.30808-6/307183121_632624135042756_741222055734435810_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=dtRU1PS0ofUAX-hKjGV&_nc_ht=scontent.fbgo1-1.fna&oh=00_AfBSiaNAf4Q9p92kSal0VTiFxLhJ_pMvtjcZ4_KOGdDkwQ&oe=649A4F9D" height="32px"></sub></sub></sub></sub></sub>&nbsp&nbspSoftware Engineer (summer job) at Norconsult Digital&nbsp&nbsp&nbsp<sup><sub>Jun 2023 - Aug 2023</sub></sup></h3>
   <p><b>Skills:</b> Vue.js · Vuetify · TypeScript · Vite · Sass · Progressive Web Apps · C# · .NET</p>
   
   <br />
