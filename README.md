@@ -160,13 +160,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" height="40"/>
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1200px-Inkscape_Logo.svg.png" alt="Inkscape" height="40"/>
   </p>
+  <h4>Testing:</h4>
+  <p>
+    <img src="https://www.soapui.org/soapui/media/images/favicon.png" alt="SoapUI" height="40"/>
+    &nbsp&nbsp<img src="https://lh3.googleusercontent.com/WRvVHANHbgKMNmV-fZ-3ji9lOhO5QGo3OGX41kC4dm873mSJZkOfKuRuYgufI4BfABdBeftmLncKueJPIA71WBHzIw=w128-h128-e365-rj-sc0x00ffffff" alt="Katalon Recorder" height="38"/>
+    &nbsp&nbsp<img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="JUnit" height="40"/>
+  </p>
   <h4>Other:</h4>
   <p>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    &nbsp&nbsp<img src="https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png" alt="npm" width="40" height="40"/>
+    &nbsp&nbsp<img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/17f34/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" alt="pnpm" width="40" height="40"/>
     &nbsp&nbsp<img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="Bash" height="40"/>
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" height="40"/>
-    &nbsp&nbsp<img src="https://www.soapui.org/soapui/media/images/favicon.png" alt="SoapUI" height="40"/>
-    &nbsp&nbsp<img src="https://lh3.googleusercontent.com/WRvVHANHbgKMNmV-fZ-3ji9lOhO5QGo3OGX41kC4dm873mSJZkOfKuRuYgufI4BfABdBeftmLncKueJPIA71WBHzIw=w128-h128-e365-rj-sc0x00ffffff" alt="Katalon Recorder" height="38"/>
   </p>
 </div>
 
