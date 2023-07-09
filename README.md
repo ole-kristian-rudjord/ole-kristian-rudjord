@@ -88,26 +88,28 @@
 
 <div>
   <h1>💼 Work</h1>
-  <h3><sub><sub><sub><sub><sub><img src="https://scontent.fbgo1-1.fna.fbcdn.net/v/t39.30808-6/307183121_632624135042756_741222055734435810_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=dtRU1PS0ofUAX-hKjGV&_nc_ht=scontent.fbgo1-1.fna&oh=00_AfBSiaNAf4Q9p92kSal0VTiFxLhJ_pMvtjcZ4_KOGdDkwQ&oe=649A4F9D" height="32px"></sub></sub></sub></sub></sub>&nbsp&nbspSoftware Engineer (summer job) at Norconsult Digital&nbsp&nbsp&nbsp<sup><sub>Jun 2023 - Aug 2023</sub></sup></h3>
-  <p><b>Skills:</b> Vue.js · Vuetify · TypeScript · Vite · Sass · Progressive Web Apps · C# · .NET</p>
+  <h3><sub><sub><sub><sub><sub><img src="https://yt3.googleusercontent.com/9nneI7jEBx5zSL41ctvdlcRZWCLHWdI9cmdZra_wnBMgGbjA1PalAxtG1OX7w6MN2Z7QFPcCTw=s900-c-k-c0x00ffffff-no-rj" height="34px"></sub></sub></sub></sub></sub>&nbsp&nbspSoftware Engineer at Norconsult Digital (summer job)&nbsp&nbsp&nbsp<sup><sub>Jun 2023 - Aug 2023</sub></sup></h3>
+  <p>A summer job working with front-end development and creating a progressive web app for one of Norconsult Digital's clients.</p>
+  
+  <p><b>Skills:</b> Vue.js · Vuetify · TypeScript · Vite · Sass · Progressive Web Apps · C# · .NET · Git · GitHub</p>
   
   <br />
   
-  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Web Programming&nbsp&nbsp&nbsp<sup><sub>Jan 2023 - Now</sub></sup></h3>
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Web Programming&nbsp&nbsp&nbsp<sup><sub>Jan 2023 - May 2023</sub></sup></h3>
   <ul>
-    <li>I help students acquire knowledge of web servers and how to develop full-stack web applications using JavaScript, Spring Boot, and databases.</li>
-    <li>I take part in 3 practice classes per week to help students with understanding their assignments and answer any questions they might have about the course, technologies they are using, or other related subjects.</li>
-    <li>Grading (pass/fail) obligatory assignments</li>
+    <li>I guided students in learning about web servers, and full-stack web application development.</li>
+    <li>Three practice classes per week were conducted to assist students in understanding their assignments and addressing questions related to the course, technologies, and other relevant subjects.</li>
+    <li>Graded 300+ assignments.</li>
   </ul>
-  <p><b>Skills:</b> JavaScript · Java · Spring Boot · SQL · Git · GitHub</p>
+  <p><b>Skills:</b> JavaScript · Java · Spring Boot · Git · GitHub · SQL</p>
   
   <br />
   
   <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Aug 2022 - Nov 2022</sub></sup></h3>
   <ul>
-    <li>Helped students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
-    <li>I attended practice class 3 times per week to answer questions, guide students toward solutions, and help them understand the concepts of HTML, CSS, and the basics of inclusive design.</li>
-    <li>Graded (pass/fail) over 100 obligatory assignments.</li>
+    <li>I helped students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
+    <li>Partook in three practice classes per week to assist students in understanding their assignments and addressing questions related to the course, technologies, and other relevant subjects.</li>
+    <li>Graded 100+ assignments.</li>
   </ul>
   <p><b>Skills:</b> Inclusive Web Design · HTML · CSS · Git · GitHub</p>
 </div>  
@@ -143,7 +145,8 @@
   </p>
   <h4>Web-hosting:</h4>
   <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="Cloudflare" height="40"/>
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" height="40"/>
+    &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="Cloudflare" height="40"/>
     &nbsp&nbsp<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="40"/>
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GoDaddy_Logo_-_The_GO.svg/1200px-GoDaddy_Logo_-_The_GO.svg.png" alt="GoDaddy" height="40"/>
   </p>
