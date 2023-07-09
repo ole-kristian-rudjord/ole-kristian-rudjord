@@ -37,51 +37,49 @@
 <div>
   <h1>👨‍💻 Projects</h1>
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
-  <p>EloShapes was launched on 08/20/2022, reaching more than <ins><b>6500</b></ins> users within 24 hours, now having an average of over <ins><b>120 000</b></ins> monthly visits.</p>
+  <p>EloShapes is a website that lets users compare the shapes and technical specifications of more than 350 gaming mice.</p>
   
-  <p>This is a passion project that I started working on at the beginning of 2022 with only a basic understanding of web development. This was first meant as a small side-project that I would use to practice JavaScript but later grew into a website that I knew could help others.</p>
+  <p>Started as a personal passion project in early 2022, EloShapes initially served as a platform for me to practice JavaScript while having a limited grasp of web development. However, it evolved into a website that I recognized had the potential to assist others.</p>
 
-  <p>The website lets users compare the shapes and technical specifications of gaming mice. This helps them get a better understanding of the products they might buy.</p>
-  
-  <p>EloShapes hosts a database with over 300 mice. Its selection continues to grow as both I and users add existing and upcoming mice to the database.</p>
+  <p>Launched on 08/20/2022, EloShapes quickly gained traction with over <ins><b>6,500</b></ins> users within 24 hours and currently boasts a monthly visit count of over <ins><b>120,000.</b></ins></p>
     
-  <p>EloShapes is created using JavaScript, HTML, CSS, Spring Boot, and MongoDB. It is hosted using Heroku and Cloudflare. Google Analytics is used for measuring traffic.</p>
+  <p>Created using JavaScript, HTML, CSS, Java, Spring Boot, and MongoDB. Hosted using Github, Heroku, and Cloudflare. Google Analytics is used for measuring traffic.</p>
     
   <br />
   
   <h3><a href="https://ole-kristian-rudjord.github.io/portfolio-website/"><sub><sub><sub><sub><sub><img src="https://ole-kristian-rudjord.github.io/portfolio-website/assets/Portfolio_Website-logo-6456e62d.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspPortfolio Website</a></h3>
-  <p>This is my very own portfolio website that, compared to a short resume, gives a deeper look into who I am and what I do!</p>
+  <p>[Development not finished]</p>
   
-  <p>It contains information about me and my projects, education, work experience, skills, hobbies, and contact information.</p>
+  <p>My personal portfolio website offers a comprehensive overview of my background, including projects, education, work experience, skills, hobbies, and contact information.</p>
 
-  <p>To learn more about Vue.js, I decided it was a good idea to build my portfolio using this technology to better understand its features and how to use it.</p>
+  <p>Built with Vue.js, it serves as a learning tool for exploring the technology's capabilities.</p>
     
-  <p>The website is still very much under development, so a lot of content is still missing. Bugs and responsiveness on certain screen sizes are still not fixed, it is therefore recommended to view it on a computer for the time being.</p>
+  <p>Please note that the website is still in development, with some content missing and occasional bugs and responsiveness issues on certain screen sizes. It is recommended to view it on a computer for the time being.</p>
   
   <p><b>Created using:</b> Vue.js · Vite · Sass</p>
     
   <br />
     
   <h3><a href="https://github.com/ole-kristian-rudjord/TypeScript-Calculator"><sub><sub><sub><sub><sub><img src="https://raw.githubusercontent.com/ole-kristian-rudjord/TypeScript-Calculator/51f219e50ac06c50762023ba6874c488f2b85af3/favicon.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspTypeScript Calculator</a></h3>
-  <p>This is a small project where I learned TypeScript by implementing functionalities used in a simple calculator. It was also used to learn more about Sass and experiment with animations and sound.</p>
+  <p>In this small project, I delved into TypeScript by implementing functionalities for a simple calculator. Additionally, it served as an opportunity to explore Sass, experiment with animations, and incorporate sound elements.</p>
     
   <p><b>Created using:</b> TypeScript · Sass</p>
   
   <br />
   
   <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--React"><sub><sub><sub><sub><sub><img src="https://ole-kristian-rudjord.github.io/Frosted-Glass-Generator--React/boxes-icon.svg" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - React.js</a></h3>
-  <p>This is a project I created in order to learn the fundamentals of React.js and Styled-Components. The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
+  <p>I developed this project as a means to learn the fundamentals of React.js and Styled-Components. The website allows users to create and customize boxes, giving them a frosted glass appearance.</p>
   
-  <p>It is based on the same idea that was used when I first learned JavaScript and jQuery earlier that year (see project below).</p>
+  <p>It is based on the same idea that was used when I first learned JavaScript earlier that year (see project below).</p>
 
   <p><b>Created using:</b> React.js · Styled-Components</p>
   
   <br />
   
   <h3><a href="https://github.com/ole-kristian-rudjord/Frosted-Glass-Generator--JQuery"><sub><sub><sub><sub><sub><img src="https://img.icons8.com/emoji/48/000000/blue-square-emoji.png" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspFrosted Glass Generator - jQuery</a></h3>
-  <p>Frosted Glass Generator is a project that I made in order to learn JavaScript and jQuery. Before starting, I only had experience with basic HTML and CSS.</p>
+  <p>Frosted Glass Generator is a personal project I created in order to learn JavaScript and jQuery. Before starting, my knowledge was limited to basic HTML and CSS.</p>
 
-  <p>The website lets users create and configure boxes in order to make them appear as frosted glass.</p>
+  <p>The website enables users to generate and customize boxes, giving them a frosted glass effect.</p>
 
   <p><b>Created using:</b> JavaScript (jQuery) · HTML · CSS</p>
 </div>
