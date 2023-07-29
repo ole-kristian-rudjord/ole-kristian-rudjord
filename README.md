@@ -8,7 +8,9 @@
   <br />
   <p><b>Current Courses:</b></p>
   <ul>
-    <li>...</li>
+    <li>Web Applications</li>
+    <li>Computer Security</li>
+    <li>Introduction to Artificial Intelligence</li>
   </ul>
   <br />
   <p><b>Previous:</b></p>
@@ -41,7 +43,7 @@
   
   <p>Started as a personal passion project in early 2022, EloShapes initially served as a platform for me to practice JavaScript while having a limited grasp of web development. However, it evolved into a website that I recognized had the potential to assist others.</p>
 
-  <p>Launched on 08/20/2022, EloShapes quickly gained traction with over <ins><b>6,500</b></ins> users within 24 hours and currently boasts a monthly visit count of over <ins><b>120,000.</b></ins></p>
+  <p>Launched on 08/20/2022, EloShapes quickly gained traction with over <ins><b>6,500</b></ins> users within 24 hours and currently boasts a monthly visit count of over <ins><b>130,000.</b></ins></p>
     
   <p>Created using JavaScript, HTML, CSS, Java, Spring Boot, and MongoDB. Hosted using Github, Heroku, and Cloudflare. Google Analytics is used for measuring traffic.</p>
     
@@ -94,6 +96,14 @@
   <p><b>Skills:</b> Vue.js · Vuetify · TypeScript · Vite · Sass · Progressive Web Apps · C# · .NET · Git · GitHub</p>
   
   <br />
+
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Starting Aug 2023 - Nov 2023</sub></sup></h3>
+  <ul>
+    <li>I help students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
+  </ul>
+  <p><b>Skills:</b> Inclusive Web Design · HTML · CSS · Git · GitHub</p>
+
+  <br />
   
   <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Web Programming&nbsp&nbsp&nbsp<sup><sub>Jan 2023 - May 2023</sub></sup></h3>
   <ul>
@@ -123,15 +133,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="40"/>
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="38"/>
     &nbsp&nbsp<img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-light.svg" alt="Vuetify" height="41"/>
+    &nbsp&nbsp<img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+    &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40"/>
     &nbsp&nbsp<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" height="40"/>
     &nbsp&nbsp<img src="https://avatars.githubusercontent.com/u/3863375?s=280&v=4" alt="Knockout js" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40"/>
-    &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40"/>
     &nbsp&nbsp<img src="https://styled-components.com/atom.png" alt="Styled-Components" height="40"/>
-    &nbsp&nbsp<img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" height="40"/>
   </p>
   <h4>Back-end:</h4>
   <p>
