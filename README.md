@@ -43,7 +43,7 @@
   
   <p>Started as a personal passion project in early 2022, EloShapes initially served as a platform for me to practice JavaScript while having a limited grasp of web development. However, it evolved into a website that I recognized had the potential to assist others.</p>
 
-  <p>Launched on 08/20/2022, EloShapes quickly gained traction with over <ins><b>6,500</b></ins> users within 24 hours and currently boasts a monthly visit count of over <ins><b>130,000.</b></ins></p>
+  <p>Launched on 08/20/2022, EloShapes quickly gained traction with over <ins><b>6,500</b></ins> users within 24 hours and currently boasts a monthly visit count of over <ins><b>140,000.</b></ins></p>
     
   <p>Created using JavaScript, HTML, CSS, Java, Spring Boot, and MongoDB. Hosted using Github, Heroku, and Cloudflare. Google Analytics is used for measuring traffic.</p>
     
