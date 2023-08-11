@@ -169,7 +169,7 @@
     &nbsp&nbsp<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="40"/>
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GoDaddy_Logo_-_The_GO.svg/1200px-GoDaddy_Logo_-_The_GO.svg.png" alt="GoDaddy" height="40"/>
   </p>
-  <h4>IDEs:</h4>
+  <h4>Code Editors & IDEs:</h4>
   <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40"/>
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" height="40"/>
