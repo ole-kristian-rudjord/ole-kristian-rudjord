@@ -15,9 +15,9 @@
   <br />
   <p><b>Previous:</b></p>
   <ul>
-    <li>Software Testing - A</li>
-    <li>Operating Systems - A</li>
-    <li>Internet of Things - A</li>
+    <li>Software Testing - <b>A</b></li>
+    <li>Operating Systems - <b>A</b></li>
+    <li>Internet of Things - <b>A</b></li>
     <br />
     <li>Algorithms and Data Structures - <b>B</b></li>
     <li>Human Computer Interaction - <b>B</b></li>
@@ -30,9 +30,49 @@
     <li>Programming - <b>A</b></li>
     <li>Inclusive Web Design - <b>B</b></li>
     <li>Interaction Design and Prototyping - <b>A</b></li>
-    <li>Technology and Society for Programmers (no grading)</li>
   </ul>
 </div>
+
+<br />
+
+<div>
+  <h1>💼 Work</h1>
+  <h3><sub><sub><sub><sub><sub><img src="https://yt3.googleusercontent.com/9nneI7jEBx5zSL41ctvdlcRZWCLHWdI9cmdZra_wnBMgGbjA1PalAxtG1OX7w6MN2Z7QFPcCTw=s900-c-k-c0x00ffffff-no-rj" height="34px"></sub></sub></sub></sub></sub>&nbsp&nbspSoftware Engineer @ Norconsult Digital (summer job)&nbsp&nbsp&nbsp<sup><sub>Jun 2023 - Aug 2023</sub></sup></h3>
+  <ul>
+  <li>Working on porting an old app from the ELRAPP system by The Norwegian Public Roads Administration (Statens vegvesen) into a modern Progressive Web App using Vue.js, Vuetify, Vite, TypeScript, Pinia, Sass, and more.
+  </li>
+  </ul>
+  
+  <p><b>Skills:</b> Vue.js · Vuetify · TypeScript · Vite · Pinia · Sass · C# · .NET · Git · GitHub · Progressive Web Apps · Knockout js</p>
+  
+  <br />
+
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant @ OsloMet - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Aug 2023 - Nov 2023</sub></sup></h3>
+  <ul>
+    <li>I help students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
+  </ul>
+  <p><b>Skills:</b> Inclusive Web Design · HTML · CSS · Git · GitHub</p>
+
+  <br />
+  
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant @ OsloMet - Web Programming&nbsp&nbsp&nbsp<sup><sub>Jan 2023 - May 2023</sub></sup></h3>
+  <ul>
+    <li>I guided students in learning about web servers, and full-stack web application development.</li>
+    <li>Three practice classes per week were conducted to assist students in understanding their assignments and addressing questions related to the course, technologies, and other relevant subjects.</li>
+    <li>Graded 300+ assignments.</li>
+  </ul>
+  <p><b>Skills:</b> JavaScript · Java · Spring Boot · Git · GitHub · SQL</p>
+  
+  <br />
+  
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant @ OsloMet - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Aug 2022 - Nov 2022</sub></sup></h3>
+  <ul>
+    <li>I helped students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
+    <li>Partook in three practice classes per week to assist students in understanding their assignments and addressing questions related to the course, technologies, and other relevant subjects.</li>
+    <li>Graded 100+ assignments.</li>
+  </ul>
+  <p><b>Skills:</b> Inclusive Web Design · HTML · CSS · Git · GitHub</p>
+</div>  
 
 <br />
 
@@ -40,12 +80,18 @@
   <h1>👨‍💻 Projects</h1>
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
   <p>EloShapes is a website that lets users compare the shapes and technical specifications of more than 350 gaming mice.</p>
-  
-  <p>Started as a personal passion project in early 2022, EloShapes initially served as a platform for me to practice JavaScript while having a limited grasp of web development. However, it evolved into a website that I recognized had the potential to assist others.</p>
 
   <p>Launched on 08/20/2022, EloShapes quickly gained traction with over <ins><b>6,500</b></ins> users within 24 hours and currently boasts a monthly visit count of over <ins><b>140,000.</b></ins></p>
+  
+  <p>Started as a personal passion project in early 2022, EloShapes initially served as a platform for me to practice JavaScript while having a limited grasp of web development. However, it evolved into a website that I recognized had the potential to assist others.</p>
     
-  <p>Created using JavaScript, HTML, CSS, Java, Spring Boot, and MongoDB. Hosted using Github, Heroku, and Cloudflare. Google Analytics is used for measuring traffic.</p>
+  <p>
+    <b>Created using:</b> JavaScript · HTML · CSS · Java · Spring Boot · MongoDB
+    <br/>
+    <b>Hosted using:</b> GitHub · GoDaddy · Heroku · Cloudflare
+    <br/>
+    <b>Traffic measured using:</b> Google Analytics
+  </p>
     
   <br />
   
@@ -89,44 +135,6 @@
 <br />
 
 <div>
-  <h1>💼 Work</h1>
-  <h3><sub><sub><sub><sub><sub><img src="https://yt3.googleusercontent.com/9nneI7jEBx5zSL41ctvdlcRZWCLHWdI9cmdZra_wnBMgGbjA1PalAxtG1OX7w6MN2Z7QFPcCTw=s900-c-k-c0x00ffffff-no-rj" height="34px"></sub></sub></sub></sub></sub>&nbsp&nbspSoftware Engineer at Norconsult Digital (summer job)&nbsp&nbsp&nbsp<sup><sub>Jun 2023 - Aug 2023</sub></sup></h3>
-  <p>A summer job working with front-end development and creating a progressive web app for one of Norconsult Digital's clients.</p>
-  
-  <p><b>Skills:</b> Vue.js · Vuetify · TypeScript · Vite · Sass · Progressive Web Apps · C# · .NET · Git · GitHub</p>
-  
-  <br />
-
-  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Starting Aug 2023 - Nov 2023</sub></sup></h3>
-  <ul>
-    <li>I help students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
-  </ul>
-  <p><b>Skills:</b> Inclusive Web Design · HTML · CSS · Git · GitHub</p>
-
-  <br />
-  
-  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Web Programming&nbsp&nbsp&nbsp<sup><sub>Jan 2023 - May 2023</sub></sup></h3>
-  <ul>
-    <li>I guided students in learning about web servers, and full-stack web application development.</li>
-    <li>Three practice classes per week were conducted to assist students in understanding their assignments and addressing questions related to the course, technologies, and other relevant subjects.</li>
-    <li>Graded 300+ assignments.</li>
-  </ul>
-  <p><b>Skills:</b> JavaScript · Java · Spring Boot · Git · GitHub · SQL</p>
-  
-  <br />
-  
-  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Aug 2022 - Nov 2022</sub></sup></h3>
-  <ul>
-    <li>I helped students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
-    <li>Partook in three practice classes per week to assist students in understanding their assignments and addressing questions related to the course, technologies, and other relevant subjects.</li>
-    <li>Graded 100+ assignments.</li>
-  </ul>
-  <p><b>Skills:</b> Inclusive Web Design · HTML · CSS · Git · GitHub</p>
-</div>  
-
-<br />
-
-<div>
   <h1>Languages and Tools</h1>
   <h4>Front-end:</h4>
   <p>
@@ -134,6 +142,7 @@
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="38"/>
     &nbsp&nbsp<img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-light.svg" alt="Vuetify" height="41"/>
     &nbsp&nbsp<img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" height="40"/>
+    &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" alt="Pinia" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
     &nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40"/>
