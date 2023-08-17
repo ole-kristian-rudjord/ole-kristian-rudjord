@@ -81,7 +81,7 @@
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
   <p>EloShapes is a website that lets users compare the shapes and technical specifications of more than 350 gaming mice.</p>
 
-  <p>Launched on 08/20/2022, EloShapes quickly gained traction with over <ins><b>6,500</b></ins> users within 24 hours and currently boasts a monthly visit count of over <ins><b>150,000.</b></ins></p>
+  <p>Launched on 08/20/2022, EloShapes quickly gained traction with over <ins><b>6,500</b></ins> users within 24 hours and currently boasts a monthly visit count of over <ins><b>150,000</b></ins> and a combined user count of over <ins><b>100,000</b></ins></p>.
   
   <p>Started as a personal passion project in early 2022, EloShapes initially served as a platform for me to practice JavaScript while having a limited grasp of web development. However, it evolved into a website that I recognized had the potential to assist others.</p>
     
