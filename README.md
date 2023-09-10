@@ -4,7 +4,7 @@
 
 <div>
   <h1>🎓 Education</h1>
-  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspBachelor's degree in Applied Computer Science at OsloMet&nbsp&nbsp<sup><sub>Aug 2021 - Now</sub></sup></h3>
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspBachelor's degree in Applied Computer Science at OsloMet&nbsp&nbsp<sup><sub>Aug. 2021 - Jun. 2024</sub></sup></h3>
   <br />
   <p><b>Current Courses:</b></p>
   <ul>
@@ -37,17 +37,17 @@
 
 <div>
   <h1>💼 Work</h1>
-  <h3><sub><sub><sub><sub><sub><img src="https://yt3.googleusercontent.com/9nneI7jEBx5zSL41ctvdlcRZWCLHWdI9cmdZra_wnBMgGbjA1PalAxtG1OX7w6MN2Z7QFPcCTw=s900-c-k-c0x00ffffff-no-rj" height="34px"></sub></sub></sub></sub></sub>&nbsp&nbspSoftware Engineer @ Norconsult Digital (summer job)&nbsp&nbsp&nbsp<sup><sub>Jun 2023 - Aug 2023</sub></sup></h3>
+  <h3><sub><sub><sub><sub><sub><img src="https://yt3.googleusercontent.com/9nneI7jEBx5zSL41ctvdlcRZWCLHWdI9cmdZra_wnBMgGbjA1PalAxtG1OX7w6MN2Z7QFPcCTw=s900-c-k-c0x00ffffff-no-rj" height="34px"></sub></sub></sub></sub></sub>&nbsp&nbspSoftware Engineer at Norconsult Digital (summer job)&nbsp&nbsp&nbsp<sup><sub>Jun. 2023 - Aug. 2023 (3 months)</sub></sup></h3>
   <ul>
-  <li>Working on porting an old app from the ELRAPP system by The Norwegian Public Roads Administration (Statens vegvesen) into a modern Progressive Web App using Vue.js, Vuetify, Vite, TypeScript, Pinia, Sass, and more.
-  </li>
+    <li>I re-created an old web app used by The Norwegian Public Roads Administration (Statens vegvesen) into a modern Progressive Web App (PWA) with newer and more maintainable code and architecture.</li>
+    <li>This new app is part of the ELRAPP system that includes the contractor's reporting of information, the Norwegian Road Administration's own controls, follow-up points in contracts (deadlines and deviations), and reporting.</li>
   </ul>
   
-  <p><b>Skills:</b> Vue.js · Vuetify · TypeScript · Vite · Pinia · Sass · C# · .NET · Git · GitHub · Progressive Web Apps · Knockout js</p>
+  <p><b>Skills:</b> Vue.js · Vuetify · TypeScript · Vite · Pinia · Sass · C# · .NET · Git · GitHub · Progressive Web Apps · Knockout js · OpenLayers</p>
   
   <br />
 
-  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant @ OsloMet - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Aug 2023 - Nov 2023</sub></sup></h3>
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant at OsloMet - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Aug. 2023 - Present</sub></sup></h3>
   <ul>
     <li>I help students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
   </ul>
@@ -55,7 +55,7 @@
 
   <br />
   
-  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant @ OsloMet - Web Programming&nbsp&nbsp&nbsp<sup><sub>Jan 2023 - May 2023</sub></sup></h3>
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant at OsloMet - Web Programming&nbsp&nbsp&nbsp<sup><sub>Jan. 2023 - May. 2023 (5 months)</sub></sup></h3>
   <ul>
     <li>I guided students in learning about web servers, and full-stack web application development.</li>
     <li>Three practice classes per week were conducted to assist students in understanding their assignments and addressing questions related to the course, technologies, and other relevant subjects.</li>
@@ -65,7 +65,7 @@
   
   <br />
   
-  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant @ OsloMet - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Aug 2022 - Nov 2022</sub></sup></h3>
+  <h3><sub><sub><sub><sub><sub><img src="https://www.uniforum.uio.no/notert/2018/bilder/e13af02a-52b6-4701-8766-f0a0d9fab213.png" height="28px"></sub></sub></sub></sub></sub>&nbsp&nbspTeaching Assistant at OsloMet - Inclusive Web Design&nbsp&nbsp&nbsp<sup><sub>Aug. 2022 - Nov. 2022 (4 months)</sub></sup></h3>
   <ul>
     <li>I helped students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.</li>
     <li>Partook in three practice classes per week to assist students in understanding their assignments and addressing questions related to the course, technologies, and other relevant subjects.</li>
@@ -79,9 +79,11 @@
 <div>
   <h1>👨‍💻 Projects</h1>
   <h3><a href="https://www.eloshapes.com/"><sub><sub><sub><sub><sub><img src="https://www.eloshapes.com/EloShapes-Logo-Circle.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspEloShapes.com</a></h3>
-  <p>EloShapes is a website that lets users compare the shapes and technical specifications of more than 350 gaming mice.</p>
+  <p>EloShapes is a website that lets users compare the shapes and technical specifications of 380+ gaming mice.</p>
 
-  <p>Launched on 08/20/2022, EloShapes quickly gained traction with over <ins><b>6,500</b></ins> users within 24 hours and currently boasts a monthly visit count of over <ins><b>150,000</b></ins> and a combined user count of over <ins><b>100,000</b></ins>.</p>
+  <p><b>6500+ users on launch day</b> (22.08.2022), now <b>200,000+ total users</b> from all around the world.</p>
+
+  <p><b>170,000+ monthly visits</b> (increases by ≈10-20% each month) with <b>1,000,000+ total visits</b>.</p>
   
   <p>Started as a personal passion project in early 2022, EloShapes initially served as a platform for me to practice JavaScript while having a limited grasp of web development. However, it evolved into a website that I recognized had the potential to assist others.</p>
     
@@ -92,19 +94,6 @@
     <br/>
     <b>Traffic measured using:</b> Google Analytics
   </p>
-    
-  <br />
-  
-  <h3><a href="https://ole-kristian-rudjord.github.io/portfolio-website/"><sub><sub><sub><sub><sub><img src="https://ole-kristian-rudjord.github.io/portfolio-website/assets/Portfolio_Website-logo-6456e62d.svg" height="30px"></sub></sub></sub></sub></sub>&nbsp&nbspPortfolio Website</a></h3>
-  <p>[Development not finished]</p>
-  
-  <p>My personal portfolio website offers a comprehensive overview of my background, including projects, education, work experience, skills, hobbies, and contact information.</p>
-
-  <p>Built with Vue.js, it serves as a learning tool for exploring the technology's capabilities.</p>
-    
-  <p>Please note that the website is still in development, with some content missing and occasional bugs and responsiveness issues on certain screen sizes. It is recommended to view it on a computer for the time being.</p>
-  
-  <p><b>Created using:</b> Vue.js · Vite · Sass</p>
     
   <br />
     
@@ -140,6 +129,7 @@
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="40"/>
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="38"/>
+    &nbsp&nbsp<img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="Nuxt.js" height="44"/>
     &nbsp&nbsp<img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-light.svg" alt="Vuetify" height="41"/>
     &nbsp&nbsp<img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" height="40"/>
     &nbsp&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" alt="Pinia" height="40"/>
