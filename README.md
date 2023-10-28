@@ -93,7 +93,7 @@ I am a passionate software engineer with a deep passion for web-development and 
 + A complete overhaul of the original version that aims to improve code architecture and maintainability while utilizing new functionality from modern technologies and frameworks such as TypeScript, Nuxt 3, Vuetify 3, Sass, and more.
 + Beta testing will start mid/late December in order to gather feedback on new design, functionality, and network/servers.
 
-***Skills:** TypeScript, Vue.js, Nuxt.js, Vuetify, Sass, Vite, CMS, Cloudflare, Cloudflare Pages*
+***Skills:** TypeScript, Vue.js, Nuxt.js, Vuetify, Sass, Vite, CMS, Bash, Cloudflare, Cloudflare Pages*
 
 <br>
 
