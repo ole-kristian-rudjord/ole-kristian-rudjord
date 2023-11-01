@@ -54,6 +54,8 @@ I am a passionate software engineer with a deep love for web development and lea
 ### Software Engineer | Summer job &nbsp;<sub><sup>(Jun. 2023 - Aug. 2023)</sub></sup>
 + I re-created an old web application used by The Norwegian Public Roads Administration (Statens vegvesen) into a modern Progressive Web App with newer and more maintainable code and architecture.
 
+<br>
+
 ***Skills:** TypeScript, Vue.js, Vuetify, Vite, Sass, C#, .NET, OpenLayers, Git, GitHub, PWA, Agile teamwork*
 
 <br>
@@ -73,6 +75,8 @@ I am a passionate software engineer with a deep love for web development and lea
 ### Teaching Assistant | Inclusive Web Design &nbsp;<sub><sup>(Aug. 2022 - Nov. 2022)</sub></sup>
 + Partook in three weekly practice classes to help a class of 350+ students learn about web fundamentals related to HTML, CSS, and Inclusive Web Design, and answer questions related to the course and topics about the web.
 + Graded 100+ assignments.
+
+<br>
 
 ***Skills:** JavaScript, jQuery, Java, Spring Boot, HTML, CSS, Inclusive Web Design, WCAG, SQL, Git, GitHub, Teaching, Teamwork*
 
