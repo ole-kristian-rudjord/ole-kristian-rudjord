@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Ole Kristian Rudjord 
+<h1>👋 Hi, my name is Ole Kristian Rudjord</h1>
 
 I am a passionate software engineer with a deep love for web development and learning new technologies that help improve my skills, increase efficiency, and help build better products!
 
