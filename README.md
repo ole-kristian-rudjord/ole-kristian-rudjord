@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Ole Kristian Rudjord 
 
-I am a passionate software engineer with a deep passion for web development and learning new technologies that help improve my skills, increase efficiency, and help build better products!
+I am a passionate software engineer with a deep love for web development and learning new technologies that help improve my skills, increase efficiency, and help build better products!
 
 <br>
 
