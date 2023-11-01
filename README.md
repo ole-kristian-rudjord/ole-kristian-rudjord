@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Ole Kristian Rudjord 
 
-I am a passionate software engineer with a deep passion for web-development and learning new technologies that help improve my skills, increase efficiency and help build better products!
+I am a passionate software engineer with a deep passion for web development and learning new technologies that help improve my skills, increase efficiency, and help build better products!
 
 <br>
 
@@ -26,7 +26,7 @@ I am a passionate software engineer with a deep passion for web-development and 
 <br>
 
 + Algorithms and Data Structures -  **B**
-+ Human Computer Interaction -  **B**
++ Human-Computer Interaction -  **B**
 + Software Engineering -  **A**
 
 <br>
@@ -97,9 +97,9 @@ I am a passionate software engineer with a deep passion for web-development and 
 
 <br>
 
-## BracketBros *(under development)* &nbsp;<sub><sup>(Sep. 2023 - present)</sub></sup>
+## [BracketBros](https://github.com/ole-kristian-rudjord/BracketBros) &nbsp;<sub><sup>(Sep. 2023 - present)</sub></sup>
 + Group project (3 people) where we are developing a small programming forum to learn more about full-stack development and gain experience working together as an agile team.
-+ My main responsibilities: Frontend development, UI, UX, designing core functionality, co-building the back-end architecture.
++ My main responsibilities: Frontend development, UI, UX, designing core functionality, and co-building the back-end architecture.
 
 ***Skills:** Agile teamwork, C#, ASP&#46;NET Core, SQLite, CSS*
 
