@@ -86,7 +86,7 @@ I am a passionate software engineer with a deep love for web development and lea
 ## [EloShapes.com](https://www.eloshapes.com/) &nbsp;<sub><sup>(Jan. 2022 - present)</sub></sup>
 + A website that lets users compare the shapes and technical specifications of 400+ gaming mice.
 + 6500+ users on launch day (22.08.2022), now 300,000+ total users from all around the world.
-+ 170,000+ monthly visits with 1,300,000+ total visits.
++ 200,000+ monthly visits with 1,300,000+ total visits.
 + Links: https://linktr.ee/eloshapes
 
 ***Skills:** JavaScript, jQuery, HTML, CSS, Java, Spring Boot, MongoDB, Cloudflare, Heroku, UX, UI, User feedback, Prototyping*
