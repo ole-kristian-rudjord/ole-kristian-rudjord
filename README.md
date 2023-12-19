@@ -7,39 +7,38 @@ I am a passionate software engineer with a deep love for web development and lea
 # 🎓 Education 
 ## Applied Computer Science | OsloMet | Bachelor's Degree
 
-**GPA:** 4.78 <sup>(equivalent to a 3.78 GPA in the US)</sup>
-
-<br>
-
-**Ongoing courses:**
-+ Web Applications
-+ Computer Security
-+ Introduction to Artificial Intelligence
+**GPA:** 4.83 <sup>(equivalent to a 3.83 GPA in the US)</sup>
 
 <br>
 
 **Completed courses:**
-+ Software Testing -  **A**
-+ Operating Systems -  **A**
-+ Internet of Things -  **A**
++ Web Application - **A**
++ Computer Security - **A**
++ Introduction to Artificial Intelligence - **A**
 
 <br>
 
-+ Algorithms and Data Structures -  **B**
-+ Human-Computer Interaction -  **B**
-+ Software Engineering -  **A**
++ Software Testing - **A**
++ Operating Systems - **A**
++ Internet of Things - **A**
 
 <br>
 
-+ Web Programming -  **A**
-+ Visualization -  **A**
-+ Databases -  **A**
++ Algorithms and Data Structures - **B**
++ Human-Computer Interaction - **B**
++ Software Engineering - **A**
 
 <br>
 
-+ Programming -  **A**
-+ Inclusive Web Design -  **B**
-+ Interaction Design and Prototyping -  **A**
++ Web Programming - **A**
++ Visualization - **A**
++ Databases - **A**
+
+<br>
+
++ Programming - **A**
++ Inclusive Web Design - **B**
++ Interaction Design and Prototyping - **A**
 
 <br>
 
@@ -47,7 +46,7 @@ I am a passionate software engineer with a deep love for web development and lea
 ## Norconsult Digital &nbsp;<sub><sup>(Jun. 2023 - present)</sub></sup>
 ### Software Engineer | Part-time &nbsp;<sub><sup>(Okt. 2023 - present)</sub></sup>
 + I continue to develop and maintain the Progressive Web App that I created during my internship.
-+ The app is part of the ELRAPP system that includes the contractor's reporting of information, the Norwegian Road Administration's own controls, follow-up points in contracts (deadlines and deviations), and reporting.
++ The app is part of the ELRAPP system that includes the contractor's reporting of information, the Norwegian Road Administration's controls, follow-up points in contracts (deadlines and deviations), and reporting.
 
 <br>
 
@@ -61,7 +60,11 @@ I am a passionate software engineer with a deep love for web development and lea
 <br>
 
 ## OsloMet &nbsp;<sub><sup>(Aug. 2022 - present)</sub></sup>
-### Teaching Assistant | Inclusive Web Design &nbsp;<sub><sup>(Aug. 2023 - present)</sub></sup>
+### Teaching Assistant | Web Programming &nbsp;<sub><sup>(Starting Jan. 2024)</sub></sup>
+
+<br>
+
+### Teaching Assistant | Inclusive Web Design &nbsp;<sub><sup>(Aug. 2023 - Nov. 2024)</sub></sup>
 + I grade obligatory assignments and partake in weekly practice classes to help students learn the fundamentals of the web with a focus on HTML, CSS, and inclusive design.
 
 <br>
@@ -85,8 +88,8 @@ I am a passionate software engineer with a deep love for web development and lea
 # 👨‍💻 Projects
 ## [EloShapes.com](https://www.eloshapes.com/) &nbsp;<sub><sup>(Jan. 2022 - present)</sub></sup>
 + A website that lets users compare the shapes and technical specifications of 400+ gaming mice.
-+ 6500+ users on launch day (22.08.2022), now 300,000+ total users from all around the world.
-+ 200,000+ monthly visits with 1,300,000+ total visits.
++ 6500+ users on launch day (22.08.2022), now 350,000+ total users from all around the world.
++ 200,000+ monthly visits with 1,500,000+ total visits.
 + Links: https://linktr.ee/eloshapes
 
 ***Skills:** JavaScript, jQuery, HTML, CSS, Java, Spring Boot, MongoDB, Cloudflare, Heroku, UX, UI, User feedback, Prototyping*
@@ -95,13 +98,12 @@ I am a passionate software engineer with a deep love for web development and lea
 
 ## EloShapes 2.0 *(under development)* &nbsp;<sub><sup>(Nov. 2023 - present)</sub></sup>
 + A complete overhaul of the original version that aims to improve code architecture and maintainability while utilizing new functionality from modern technologies and frameworks such as TypeScript, Nuxt 3, Vuetify 3, Sass, and more.
-+ Beta testing will start mid/late December in order to gather feedback on new design, functionality, and network/servers.
 
 ***Skills:** TypeScript, Vue.js, Nuxt.js, Vuetify, Sass, Vite, CMS, Bash, Cloudflare, Cloudflare Pages*
 
 <br>
 
-## [BracketBros](https://github.com/ole-kristian-rudjord/BracketBros) &nbsp;<sub><sup>(Sep. 2023 - present)</sub></sup>
+## [BracketBros](https://github.com/ole-kristian-rudjord/BracketBros) &nbsp;<sub><sup>(Sep. 2023 - Nov. 2023)</sub></sup>
 + Group project (3 people) where we are developing a small programming forum to learn more about full-stack development and gain experience working together as an agile team.
 + My main responsibilities: Frontend development, UI, UX, designing core functionality, and co-building the back-end architecture.
 
