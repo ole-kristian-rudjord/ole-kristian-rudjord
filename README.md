@@ -49,7 +49,12 @@ I am a passionate software engineer with a deep love for web development and lea
 <br>
 
 # 💼 Work experience
-## Norconsult Digital &nbsp;<sub><sup>(Jun. 2023 - present)</sub></sup>
+
+## NAV IT &nbsp;<sub><sup>(Jun. 2024 - present)</sub></sup>
+
+<br>
+
+## Norconsult Digital &nbsp;<sub><sup>(Jun. 2023 - May 2024)</sub></sup>
 ### Software Engineer - Part-time &nbsp;<sub><sup>(Okt. 2023 - present)</sub></sup>
 Continuing development and maintenance of the application created during my summer job, with a focus on optimization and user utility. Efforts are also directed toward ensuring the code and architecture remain maintainable for all current and future developers on the project.
 
@@ -64,7 +69,7 @@ Re-engineered an outdated web application for The Norwegian Public Roads Adminis
 
 <br>
 
-## OsloMet &nbsp;<sub><sup>(Aug. 2022 - present)</sub></sup>
+## OsloMet &nbsp;<sub><sup>(Aug. 2022 - May 2024)</sub></sup>
 ### Teaching Assistant - Web Programming &nbsp;<sub><sup>(Jan. 2024 - present)</sub></sup>
 My role involves guiding students through web servers and full-stack web application development, grading obligatory assignments, and facilitating weekly practice classes to help students grasp their assignments and address questions related to the course, technologies, and other relevant subjects.
 
