@@ -52,6 +52,11 @@ I am a passionate software engineer with a deep love for web development and lea
 
 ## NAV IT &nbsp;<sub><sup>(Jun. 2024 - present)</sub></sup>
 
+### Skills
+**Backend**: Kotlin, Spring Boot
+<br>
+**Tools**: IntelliJ, Git, GitHub, Brew, Teams, Slack
+
 <br>
 
 ## Norconsult Digital &nbsp;<sub><sup>(Jun. 2023 - May 2024)</sub></sup>
@@ -65,7 +70,14 @@ Re-engineered an outdated web application for The Norwegian Public Roads Adminis
 
 <br>
 
-***Skills:** TypeScript, Vue.js, C#, .NET, Vuetify, Vite, Sass, OpenLayers, Git, GitHub, Bitbucket, Agile teamwork*
+### Skills
+**Frontend**: TypeScript, Vue, Vite, Sass/SCSS, OpenLayers, Vuetify, Knockout js
+<br>
+**Backend**: C#, .NET
+<br>
+**Tools**: VS Code, Visual Studio, Git, GitHub, Bitbucket, NPM, PNPM, Jira, Teams
+<br>
+**Teamwork**: Scrum, Kanban
 
 <br>
 
@@ -90,7 +102,12 @@ Grading assignments and participating in weekly practice classes to assist stude
 
 <br>
 
-***Skills:** JavaScript, jQuery, Java, Spring Boot, HTML, CSS, Inclusive Web Design, Web Content Accessibility Guidelines (WCAG), SQL, Git, GitHub, Teaching*
+### Skills
+**Frontend**: JavaScript, jQuery, HTML, CSS, Bootstrap, WCAG
+<br>
+**Backend**: Java, Spring Boot, SQL
+<br>
+**Tools**: VS Code, IntelliJ, Git, GitHub
 
 <br>
 
@@ -102,36 +119,56 @@ Motivated by a growing passion, I transformed this project into a user-centric w
 
 Since its launch, EloShapes has undergone significant evolution, transitioning from jQuery to leveraging modern technologies like TypeScript and Vue. This shift not only improved the site’s infrastructure but also expanded its feature set, enhancing user experience.
 
-Current tech-stack:
-TypeScript, Vue, Nuxt, Vuetify, Sass, Vite, Vercel, Cloudflare
+### Skills
+**Frontend**: TypeScript, Vue, Nuxt, Nuxt Content, Vite, Sass/SCSS, Vuetify
+<br>
+**Backend**: Java, Spring Boot, MongoDB
+<br>
+**Hosting**: Vercel, Heroku, Cloudflare
+<br>
+**Tools**: VS Code, IntelliJ, Git, GitHub, PNPM
 
-Previously used:
-jQuery, HTML, CSS, Java, Spring Boot, MongoDB, Cloudflare, Heroku
+<br>
 
-***Skills:** TypeScript, Vue.js, Nuxt.js, Vuetify, Java, Spring Boot, MongoDB, Heroku, Cloudflare, Google Analytics, Git, GitHub, Sass, SCSS, Vite, JavaScript*
+## [Bachelor Thesis](https://github.com/rasmusjs/DATA3900-24V-Bacheloroppgave) &nbsp;<sub><sup>(Jan. 2024 - Jun. 2024)</sub></sup>
+Created in cooperation with Norconsult Digital, we were tasked to develop an application that would source data from different systems and make a map application to display data and objects more universally and cohesively than relying on many other applications.
+
+### Skills
+**Frontend**: TypeScript, Vue, Nuxt, OpenLayers, Sass/SCSS, Vuetify
+<br>
+**Backend**: C#, .NET
+<br>
+**Tools**: VS Code, Rider, Git, GitHub, PNPM, Jira
+<br>
+**Teamwork**: Scrum
 
 <br>
 
 ## [BracketBros](https://github.com/ole-kristian-rudjord/BracketBros) &nbsp;<sub><sup>(Sep. 2023 - Nov. 2023)</sub></sup>
 Group project of 3 people where we are developing a small programming forum to learn more about full-stack development and gain experience with working together as an agile team.
 
-My main responsibilities: Frontend development, UI, UX, designing core functionality, and backend architecture.
-
-***Skills:** TypeScript, Vue.js, Nuxt.js, Vuetify, C#, .NET, SQLite, Sass, SCSS, Bootstrap*
+### Skills
+**Frontend**: TypeScript, Vue, Nuxt, OpenLayers, Sass/SCSS, Vuetify, Bootstrap
+<br>
+**Backend**: C#, .NET, SQLite
+<br>
+**Tools**: VS Code, Visual Studio, Rider, Git, GitHub, PNPM, Jira
 
 <br>
 
 ## [TeleShop](https://github.com/ole-kristian-rudjord/TeleShop) &nbsp;<sub><sup>(Nov. 2023)</sub></sup>
 A small shopping website used to learn more about and test the functionality of TypeScript, Vue, Nuxt, and Vuetify.
 
-***Skills:** TypeScript, Vue.js, Nuxt.js, Vuetify*
+### Skills
+**Frontend**: TypeScript, Vue, Nuxt, Vuetify
 
 <br>
 
 ## [TypeScript Calculator](https://github.com/ole-kristian-rudjord/TypeScript-Calculator) &nbsp;<sub><sup>(Jan. 2023)</sub></sup>
 In this small project, I delved into TypeScript by implementing functionalities for a simple calculator. Additionally, it served as an opportunity to explore Sass, experiment with animations, and incorporate sound elements.
 
-***Skills:** TypeScript, Sass*
+### Skills
+**Frontend**: TypeScript, Sass/SCSS
 
 <br>
 
@@ -145,7 +182,8 @@ I developed this project as a means to learn the fundamentals of React.js and St
 
 It is based on the same idea that was used when I first learned JavaScript earlier that year (see project below).
 
-***Skills:** React.js, Styled-Components*
+### Skills
+**Frontend**: React.js, Styled-Components
 
 <br>
 
@@ -154,19 +192,42 @@ Frosted Glass Generator is a personal project I created in order to learn JavaSc
 
 The website enables users to generate and customize boxes, giving them a frosted glass effect.
 
-***Skills:** JavaScript, jQuery, HTML, CSS*
+### Skills
+**Frontend**: jQuery, HTML, CSS
 
 <br>
 
 # 🤹 Skills
 ## Front end:
-TypeScript, React.js, Vue.js, Nuxt.js, Vite, Sass, SCSS, Vuetify, Tailwind CSS, Bootstrap, JavaScript, jQuery, Knockout js, HTML, CSS, Styled-Components, OpenLayers, WCAG
+TypeScript, JavaScript, jQuery, Knockout js
+<br>
+React.js, Vue, Nuxt
+<br>
+Vuetify, Tailwind, Bootstrap, Styled-Components
+<br>
+Sass, SCSS, CSS
+<br>
+HTML, OpenLayers, WCAG
 
 ## Back end:
-C#, .NET, ASP NET Core, Java, Spring Boot, Python, MongoDB, MySQL, SQLite, Cloudflare, Heroku
+Kotlin, Java, C#, Python
+<br>
+Spring Boot, .NET
+<br>
+MySQL, PostgreSQL, SQLite, MongoDB
 
-## Other:
-Visual Studio Code, Visual Studio, IntelliJ, Rider, PyCharm, JUnit, Git, GitHub, NPM, PNPM, Bash, PowerShell
+## Hosting
+Vercel, Cloudflare, Heroku, GitHub
+
+## Tools:
+VS Code, Visual Studio, IntelliJ, Rider, PyCharm
+<br>
+Git, GitHub, Bitbucket
+<br>
+NPM, PNPM, Brew, Bash, PowerShell
+<br>
+Jira, Teams, Slack
+
 
 <br>
 
