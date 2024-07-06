@@ -7,44 +7,27 @@ I am a passionate software engineer with a deep love for web development and lea
 # 🎓 Education 
 ## Applied Computer Science | OsloMet | Bachelor's Degree
 
-**GPA:** 4.83 <sup>(equivalent to a 3.83 GPA in the US)</sup>
+**GPA:** 4.86 _(equivalent to a 3.86 GPA in the US)_
 
-<br>
-
-**Current courses**
-+ Bachelor Thesis
-+ IT Project In Practice
-
-<br>
-
-**Completed courses:**
-+ Web Application - **A**
-+ Computer Security - **A**
-+ Introduction to Artificial Intelligence - **A**
-
-<br>
-
-+ Software Testing - **A**
-+ Operating Systems - **A**
-+ Internet of Things - **A**
-
-<br>
-
-+ Algorithms and Data Structures - **B**
-+ Human-Computer Interaction - **B**
-+ Software Engineering - **A**
-
-<br>
-
-+ Web Programming - **A**
-+ Visualization - **A**
-+ Databases - **A**
-
-<br>
-
-+ Programming - **A**
-+ Inclusive Web Design - **B**
-+ Interaction Design and Prototyping - **A**
+**Grades and courses:**
++ A - Bachelor Thesis (DATA3900 | 20 ECTS)
++ A - IT project in practice (DATA3710 | 10 ECTS)
++ A - Introduction to Artificial Intelligence (DAVE3625 | 10 ECTS)
++ A - Computer Security (ITPE3100 | 10 ECTS)
++ A - Web Application (ITPE3200 | 10 ECTS)
++ A - Internet of Things (ADSE1310 | 10 ECTS)
++ A - Software Testing (ADTS2310 | 10 ECTS)
++ A - Operating Systems (DATA2500 | 10 ECTS)
++ B - Human-Computer Interaction (ADSE2100 | 10 ECTS)
++ B - Algorithms and Data Structures (DATS2300 | 10 ECTS)
++ A - Software Engineering (DAFE2200 | 10 ECTS)
++ A - Visualization (ADSE3200 | 10 ECTS)
++ A - Databases (DATA1500 | 10 ECTS)
++ A - Web Programming (DATA1700 | 10 ECTS)
++ B - Inclusive Web Design (DATA1200 | 5 ECTS)
++ A - Programming (DAPE1400 | 10 ECTS)
++ A - Interaction Design and Prototyping (ADTS1600 | 10 ECTS)
++ Pass (no grading, only pass/fail) - Technology and Society for Programmers (DATA1100 | 5 ECTS)
 
 <br>
 
@@ -53,9 +36,11 @@ I am a passionate software engineer with a deep love for web development and lea
 ## NAV IT &nbsp;<sub><sup>(Jun. 2024 - present)</sub></sup>
 
 ### Skills
+**Frontend**: TypeScript, React.js, Jest
+<br>
 **Backend**: Kotlin, Spring Boot
 <br>
-**Tools**: IntelliJ, Git, GitHub, Brew, Teams, Slack
+**Tools**: VS Code, IntelliJ, Git, GitHub, Yarn, Brew, Teams, Slack
 
 <br>
 
@@ -113,7 +98,7 @@ Grading assignments and participating in weekly practice classes to assist stude
 
 # 👨‍💻 Projects
 ## [EloShapes.com](https://www.eloshapes.com/) &nbsp;<sub><sup>(Jan. 2022 - present)</sub></sup>
-EloShapes, a website for comparing over 500 gaming products, attracts more than 200,000 visits from over 75,000 unique monthly users. Development started in January 2022, only having a basic knowledge of HTML and CSS, serving as a platform for deepening my understanding of JavaScript, Java (Spring Boot), and MongoDB.
+EloShapes is a website for comparing over 700 gaming products that attract more than 200,000 visits from over 80,000 unique monthly users. Development started in January 2022, only having a basic knowledge of HTML and CSS, serving as a platform for deepening my understanding of JavaScript, Java (Spring Boot), and MongoDB.
 
 Motivated by a growing passion, I transformed this project into a user-centric website. Following my first year at university, I dedicated the entire summer to enhancing my skills, culminating in the launch on August 22, 2022, and receiving over 6,500 visits on its debut day.
 
